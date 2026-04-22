@@ -1,11 +1,15 @@
-# Welcome to your Jupyter Book
+# Mohammad WAqidi
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+NIM 240411100224.
 
-Check out the content pages bundled with this sample book to see more.
+Kelas Penambangan Data IF-4A
 
-```{tableofcontents}
-```
+Github : Waqid19
+
+Selamat datang di Jupyter Book saya.
+
+Haloo, Everyone
+
+Perkenalkan, Nama Saya Waqid. Saat ini saya merupakan mahasiswa Informatika yang memiliki ketertarikan pada bidang teknologi dan pengembangan sistem informasi. Saya memiliki semangat untuk terus belajar dan mengembangkan kemampuan, baik dalam aspek teknis maupun pemecahan masalah.
+
+Saya terbiasa bekerja secara mandiri maupun dalam tim, serta berkomitmen untuk menyelesaikan setiap tanggung jawab dengan disiplin dan integritas. Ke depan, saya berharap dapat terus meningkatkan kompetensi serta memberikan kontribusi yang positif melalui keahlian yang saya miliki.
