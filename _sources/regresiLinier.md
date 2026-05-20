@@ -174,7 +174,7 @@ $$
 \end{bmatrix}
 $$
 
-### Menghitung Intersep ($\beta_0$)
+- Menghitung Intersep ($\beta_0$)
 
 $$
 \beta_0
@@ -190,7 +190,7 @@ $$
 = 0.4
 $$
 
-### Menghitung Slope/Kemiringan ($\beta_1$)
+- Menghitung Slope/Kemiringan ($\beta_1$)
 
 $$
 \beta_1
@@ -206,10 +206,9 @@ $$
 = 1.05
 $$
 
-## Persamaan Regresi Model Analitik
+- Persamaan Regresi Model Analitik
 
-
-::contentReference[oaicite:0]{index=0}
+$$Y = 0 + 1.0769X \quad \Rightarrow \quad Y = 1.0769X$$
 
 
 ---
@@ -253,11 +252,7 @@ for i, x_val in enumerate(X_pred.flatten()):
 # 4. HASIL PREDIKSI DATA
 
 Berdasarkan integrasi hasil dari perhitungan rumus persamaan linear:
-
-
-::contentReference[oaicite:1]{index=1}
-
-
+$Y = 1.0769X$,
 didapatkan hasil prediksi nilai $Y$ sebagai berikut:
 
 | No (Prediksi) | Input Nilai X | Operasi Rumus Model ($Y = 0.4 + 1.05X$) | Hasil Akhir Nilai Y |
@@ -286,16 +281,16 @@ Berikut adalah struktur posisi penempatan tangkapan layar (*screenshot*) grafik 
 
 ## A. Diagram Pencar (Scatter Plot) Data Awal
 
-**[GAMBAR 1: Scatter Plot Titik Data Awal A sampai G di GeoGebra]**
 ![Learner](regresiLinier/img1.png)
+**GAMBAR 1: Scatter Plot Titik Data Awal A sampai G di GeoGebra**
 
 - **Deskripsi:**  
   Grafik menunjukkan posisi sebaran ketujuh titik data latih berdasarkan sumbu koordinat X dan Y sebelum ditarik garis regresi.
 
 ## B. Garis Regresi Terbaik (Line of Best Fit)
 
-**[GAMBAR 2: Plot Garis Regresi $f(x) = 0.4 + 1.05x$ Membelah Titik Data di GeoGebra]**
 ![Learner](regresiLinier/img2.png)
+**GAMBAR 2: Plot Garis Regresi $f(x) = 0.4 + 1.05x$ Membelah Titik Data di GeoGebra**
 
 - **Deskripsi:**  
   Grafik menampilkan garis lurus linear terbaik yang ditarik membelah sebaran data untuk meminimalkan nilai kesalahan kuadrat (*error*).
